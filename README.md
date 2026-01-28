@@ -24,6 +24,8 @@ This is a sample guide for setting up your project locally.
 
 The RS485 IC can be a MAX485 or max1348
 
+https://seabits.com/victron-new-support-for-nmea-2000/
+
 > [!TIP]
 > For a simple start (PlugAndPlay) you can use an esp32 arduino board with integrated RS485
 > [LILYGO T-CAN485](https://a.aliexpress.com/_EzyFDFB)
